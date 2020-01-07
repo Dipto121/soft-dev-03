@@ -1,0 +1,119 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+	
+.menu{
+	
+	width:10%;
+	height:350px;
+	background-color: rgba(0,0,0,0.5);
+}
+.leftm{
+	height: 5%;
+	line-height:20px;
+	float:left;
+	margin-left: 7px;
+}
+.leftm h3{
+	padding-top: 2px;
+	font-weight:bold;
+	color: #0099ff;
+	font-size:20px;
+	text-align: center;
+
+}
+.rightm{
+	margin-top:60px;
+	width:5%;
+	height:50px;
+	float:left;
+	margin-left: 5px;
+}
+.rightm ul{
+	margin-left:3px;
+}
+.rightm ul li{
+	display: block;
+	list-style: none;
+	font-size:25px;
+	color:white;
+	font-weight: bold;
+	line-height: 50px;
+	margin-left: 3px;
+	text-transform:uppercase;	
+}
+#fisrtlist{
+	color: orange;
+}
+
+.rightm ul li:hover{
+	color: orange;
+}
+.table{
+    width: 100%;
+    margin: 50px;
+    margin-left: 10px;
+	height:100px;
+    border-collapse: collapse;
+    text-align: left;
+    margin-left: 20px;
+
+}
+.tr {
+    border-bottom: 20px solid #cbcbcb;
+}
+.th, td{
+    border: 5px;
+    height: 40px;
+    padding: 4px;
+}
+.tr{
+    background: #F5F5F5;
+}
+
+.btn {
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+    background: #5F9EA0;
+    border: none;
+    border-radius: 5px;
+}
+
+.del_btn {
+    text-decoration: none;
+    padding: 5px 10px;
+    color: white;
+    border-radius: 3px;
+    background: #800000;
+}
+.msg {
+    margin: 30px auto; 
+    padding: 10px; 
+    border-radius: 5px; 
+    color: #3c763d; 
+    background: #dff0d8; 
+    border: 1px solid #3c763d;
+    width: 50%;
+    text-align: center;
+}
+.php{
+   background-color: skyblue;
+   text-align: center;
+   text-transform: uppercase;
+   size: 20px;
+
+
+
+}
+.all{
+	margin-top:80px;
+	width:10%;
+	size: 25px;
+	margin-left: 20px;
+	background-color: skyblue;
+   text-align: center;
+   text-transform: uppercase;
+   size: 20px;
+}
